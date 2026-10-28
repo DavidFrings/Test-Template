@@ -1,13 +1,8 @@
-<!-- template:start -->
-> **Dieses Repo ist eine Vorlage.** Anleitung: [TEMPLATE.md](TEMPLATE.md).
-> Nach `./scripts/init.sh` verschwindet dieser Hinweis.
-<!-- template:end -->
+# test-template
 
-# __PROJECT_NAME__
+[![CI](https://github.com/DavidFrings/test-template/actions/workflows/ci.yml/badge.svg)](https://github.com/DavidFrings/test-template/actions/workflows/ci.yml)
 
-[![CI](https://github.com/__GITHUB_OWNER__/__PROJECT_NAME__/actions/workflows/ci.yml/badge.svg)](https://github.com/__GITHUB_OWNER__/__PROJECT_NAME__/actions/workflows/ci.yml)
-
-__DESCRIPTION__
+This is a test repo for my template... lol.
 
 ## Verwendung
 

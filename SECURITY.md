@@ -9,8 +9,8 @@ Only the latest release (and the `main` branch) receives security fixes.
 Please **do not** open a public issue for security problems.
 
 Use GitHub's private vulnerability reporting instead: open the **Security** tab of this repository and choose
-**Report a vulnerability** ([direct link](https://github.com/__GITHUB_OWNER__/__PROJECT_NAME__/security/advisories/new)).
-If that is not possible, send an e-mail to __CONTACT_EMAIL__.
+**Report a vulnerability** ([direct link](https://github.com/DavidFrings/test-template/security/advisories/new)).
+If that is not possible, send an e-mail to dev@davidfrings.dev.
 
 Please include:
 
